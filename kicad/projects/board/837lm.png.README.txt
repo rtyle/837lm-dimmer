@@ -1,0 +1,19 @@
+837lm.png is a composite image created in Photoshop (see 837lm.psd)
+of the original board.
+It is useful for laying out the PCB but, because it is so large,
+it should not be saved/embedded as part of the kicad_pcb file.
+
+One can temporarily add it by using
+
+	Place: Place Reference Images
+
+on the
+
+	User Drawings
+
+layer and positioning it to align with the board outline
+
+	X	1
+	Y	-43.8
+
+
